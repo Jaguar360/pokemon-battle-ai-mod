@@ -1,5 +1,8 @@
 Pokemon Battle
 ==============
+This is a modification of fonse's pokemon-battle project.
+
+Fonse's description below:
 
 This is an automatic pokemon battle simulator born as a fun script for [Hubot](http://hubot.github.com/).
 
