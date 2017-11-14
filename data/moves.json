@@ -7103,6 +7103,18 @@
     "effect": 5,
     "effect_chance": 30
   },
+  "593": {
+    "id": 593,
+    "name": "Hyperspace Hole",
+    "type": 14,
+    "power": 80,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special",
+    "effect": 18,
+    "effect_chance": 0
+  },
   "594": {
     "id": 594,
     "name": "Water Shuriken",
